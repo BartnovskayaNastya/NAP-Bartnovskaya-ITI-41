@@ -1,0 +1,6 @@
+postgres:
+  dbtype: mysql
+  database: personnel
+  user: root
+  password: nastosik
+  host: localhost:3306
